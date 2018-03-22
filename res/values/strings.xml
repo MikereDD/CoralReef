@@ -67,6 +67,8 @@
     <string name="changelog_summary">See some of the recent commits.</string>
     <string name="device_extras_title">Device extras</string>
     <string name="device_extras_summary">Tweaks specific to your device</string>
+    <string name="display_options_title">Display options</string>
+    <string name="display_options_summary">Set animation preferences as well other aspects of display</string>
 
     <!-- Empty Category -->
     <string name="empty_category_title">No extra features yet...</string>
